@@ -20,10 +20,10 @@ pbix_folder = "results/exported_pbix"
 cmd = r"C:\Program Files\DAX Studio\dscmd.exe"
 
 # Path Analysis Services
-ssas_dll = r"C:\Program Files\DAX Studio\bin\Microsoft.AnalysisServices.dll"
+ssas_dll = r"C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\CommonExtensions\Microsoft\SSIS\160\BIShared\Microsoft.AnalysisServices.dll"
 
 # Path Power BI Desktop
-pbi_desktop = r"C:\Program Files\WindowsApps\Microsoft.MicrosoftPowerBIDesktop_2.140.1205.0_x64__8wekyb3d8bbwe\bin\PBIDesktop.exe"
+pbi_desktop = r"C:\Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe"
 
 # DAX Query 
 dax_query = """
